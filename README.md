@@ -1,0 +1,1 @@
+# Taller-graficos-est-ticos-din-micos-en-QGIS
